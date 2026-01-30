@@ -1,7 +1,7 @@
 {
   "name": "chai-backend",
   "version": "1.0.0",
-  "description": "a backend at chai aur code channel - youtube",
+  "description": "a backend learning project",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,9 @@
   "keywords": [
     "javascript",
     "backend",
-    "chai"
+    "learning"
   ],
-  "author": "Hitesh Choudhary",
+  "author": "Ravi",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1",
